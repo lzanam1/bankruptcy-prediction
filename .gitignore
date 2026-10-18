@@ -1,0 +1,15 @@
+# data (download from UCI)
+data/
+*.arff
+*_imputed.csv
+imputed_data/
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
